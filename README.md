@@ -5,10 +5,11 @@
 
   <br /><br />
 
-  <!-- Texto con efecto typing en tonos Sakura -->
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&size=22&pause=1000&color=E88399&center=true&vCenter=true&width=500&lines=Keyla+Alejandra+Limachi+Barrionuevo;道の途中...+(En+el+camino...);Codificando+con+disciplina+y+armon%C3%ADa." alt="Typing SVG" />
+  <!-- Título elegante en texto Markdown -->
+  <h1>🌸 Keyla Alejandra Limachi Barrionuevo 🌸</h1>
+  <p><i>kewtty • 道の途中 (En el camino) • Codificando con disciplina y armonía</i></p>
 
-  <br /><br />
+  <br />
 
   <!-- GIF de Flores Sakura -->
   <img src="https://animesher.com/orig/1/135/1355/13559/animesher.com_kawaii-cherry-blossom-sakura-1355971.gif" width="160" alt="Sakura Blossoms" />
