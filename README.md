@@ -7,10 +7,7 @@
 
   <!-- Título elegante en texto Markdown -->
   <h1>🌸 Keyla Alejandra Limachi Barrionuevo 🌸</h1>
-  <p><i>kewtty • 道の途中 (En el camino) • Codificando con disciplina y armonía</i></p>
-
   <br />
-
   <!-- GIF de Flores Sakura -->
   <img src="https://animesher.com/orig/1/135/1355/13559/animesher.com_kawaii-cherry-blossom-sakura-1355971.gif" width="160" alt="Sakura Blossoms" />
 
