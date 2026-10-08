@@ -65,6 +65,6 @@
   <img src="https://img.magnific.com/free-photo/anime-style-character-space_23-2151134152.jpg?semt=ais_hybrid&w=740&q=80" width="100%" alt="Banner Despedida" />
 
   <br /><br />
-  <sub><i>"La flor de cerezo nos recuerda florecer en el momento indicado." 🌸✨</i></sub>
+  <sub><i>🌸✨</i></sub>
 
 </div>
